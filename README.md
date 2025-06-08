@@ -21,20 +21,17 @@ Python GUI application to search and download **PDF books** from [Library Genesi
 
 ### 1. Clone the Repository
 
-    ```bash
     git clone https://github.com/Sdinzsh/bookdownloader.git
     cd bookdownloader   
-    ```
 
 ### 2. Install Required Packages
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-##🚀 Usage
-    ```bash
-    python bookdownloader.py
-    ```
+    pip install -r requirements.txt
+
+### Usage
+
+    python bookdownload.py
+    
 -Enter the book title or author.
 
 -Choose between libgen-api or libgen scraping.
@@ -45,7 +42,7 @@ Python GUI application to search and download **PDF books** from [Library Genesi
 
 -Click Download and choose the save location.
 
-##🛡️ Disclaimer
+## 🛡️ Disclaimer
 
 This tool is intended for educational and personal use only. Downloading copyrighted content without permission may be illegal in your country. Use responsibly.
 
